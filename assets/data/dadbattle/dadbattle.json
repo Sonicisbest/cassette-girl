@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf-car",
-		"player2": "cgalt",
+		"player1": "bf",
+		"player2": "dad",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -3321,10 +3321,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": "gf",
-		"song": "city-funk",
+		"gfVersion": "gf",
+		"song": "Dadbattle",
 		"arrowSkin": "",
-		"stage": "cgstage",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 2.6,
