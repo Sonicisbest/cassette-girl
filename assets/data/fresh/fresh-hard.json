@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf-car",
-		"player2": "cg",
+		"player1": "bf",
+		"player2": "dad",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -3356,8 +3356,8 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": "gf",
-		"song": "machina",
+		"gfVersion": "gf",
+		"song": "Fresh",
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 2.9,
