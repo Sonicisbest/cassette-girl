@@ -3324,7 +3324,7 @@
 		"gfVersion": "gf",
 		"song": "Dadbattle",
 		"arrowSkin": "",
-		"stage": "cgstage",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 2.6,
